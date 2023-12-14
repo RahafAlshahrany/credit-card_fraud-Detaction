@@ -1,4 +1,5 @@
 # credit-card_fraud-Detaction 💻
+the project is teamwork 👨🏻‍🤝‍👨🏾👭
 ## 🚧About Project
 This is a machine learning project made on Credit Card Fraud Detection. The data is taken from Kaggle. Different classification machine learning algorithms have been applied to get the maximum accuracy.
 This fraud detection application is designed to help businesses identify and prevent fraudulent activities. Our system utilizes advanced machine learning algorithms to analyze data in real-time and provide instant insights.
